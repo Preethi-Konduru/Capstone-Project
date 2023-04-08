@@ -1,5 +1,4 @@
-# Capstone-Project
-Building a Chatbot using Python
+# Building a Chatbot using Python
 
 Problem Statement:
 
